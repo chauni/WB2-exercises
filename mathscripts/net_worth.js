@@ -1,5 +1,5 @@
-var assets = "700000";
-var debts = "600000";
+var assets = 700000;
+var debts = 600000;
 
 var netWorth = assets - debts;
 
